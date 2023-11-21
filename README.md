@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gauravtripathi09
+- 👋 Hi, I’m Gaurav Mani Tripathi
 - 👀 I’m interested in web devlopment
 - 🌱 I’m currently learning Javascript & React
 - 💞️ I’m looking to collaborate on Front-end Project 
